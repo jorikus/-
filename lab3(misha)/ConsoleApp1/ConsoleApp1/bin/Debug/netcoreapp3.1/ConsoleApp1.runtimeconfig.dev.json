@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\voros\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\voros\\.nuget\\packages"
+    ]
+  }
+}
